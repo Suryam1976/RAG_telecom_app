@@ -1,0 +1,67 @@
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+.python-version
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm, VS Code and other IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project-specific
+chroma_db/
+scraped_data/
+*.log
+logs/
+*.pkl
+*.db
+*.sqlite3
+
+# Playwright browser data
+playwright-browsers/
+.playwright/
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+tmp/
+temp/
+.temp/
