@@ -1,0 +1,18 @@
+user_input,retrieved_contexts,response,reference,answer_relevancy,faithfulness,context_precision,context_recall
+What is VoLTE and how does it work?,[],"VoLTE stands for Voice over Long Term Evolution. It is a standard for high-speed wireless communication for mobile phones and data terminals. It is based on the IP Multimedia Subsystem (IMS) network, with specific profiles for control and media planes of voice service on LTE defined by GSMA in PRD IR.92.
+
+VoLTE has up to three times more voice and data capacity than 3G UMTS and up to six times more than 2G GSM. It uses less bandwidth because it packages data more efficiently, which also improves the quality of the calls.
+
+VoLTE works by converting the voice into data and sending it over the LTE network. This is different from traditional voice calling where the voice is sent over the network as an analog signal. With VoLTE, the voice is digitized and sent as data packets over the LTE network. This allows for higher quality voice calls and the ability to use voice and data at the same time.",VoLTE stands for Voice over LTE. It enables voice calls over LTE networks by using packet switching instead of traditional circuit-switched voice calls.,0.9459830833840774,0.0,0.0,0.0
+What are the benefits of 5G over 4G?,[],"5G has several benefits over 4G. These include:
+
+1. Faster Speeds: 5G is significantly faster than 4G, potentially up to 100 times faster. This means that you can download and upload data much more quickly.
+
+2. Lower Latency: 5G has much lower latency than 4G. This means that there is less delay or lag when you're using your device. This is particularly important for things like gaming, where a high latency can negatively impact your experience.
+
+3. Increased Capacity: 5G can support a larger number of devices than 4G. This is particularly important in densely populated areas, where many people are trying to use their devices at the same time.
+
+4. Improved Reliability: 5G is designed to be more reliable than 4G, with fewer dropped calls and less buffering when you're streaming video.
+
+5. Supports New Technologies: 5G is designed to support new technologies like the Internet of Things (IoT), autonomous vehicles, and smart cities. This could lead to a whole range of new services and applications.","5G provides faster data speeds, lower latency, and supports more connected devices than 4G.",1.0,0.95,0.0,0.0
+What is telecom churn rate?,[],"Telecom churn rate is a business metric that calculates the number of customers who leave a product over a given period of time divided by the remaining number of customers. It's a critical factor in the telecommunications industry, as it's much more expensive to acquire a new customer than to keep an existing one. A high churn rate could negatively affect a company's profitability.",Churn rate refers to the percentage of telecom subscribers who stop using the service within a given time period.,0.9587666484170665,0.0,0.0,0.0
