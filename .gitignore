@@ -65,3 +65,6 @@ playwright-browsers/
 tmp/
 temp/
 .temp/
+
+*rsa.pub
+*rsa.pub.pub
