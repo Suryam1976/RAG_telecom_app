@@ -1,0 +1,97 @@
+{"question": "What's the difference between Unlimited Welcome and Unlimited Plus?", "ground_truth": "Unlimited Welcome offers unlimited data without premium data or hotspot. Unlimited Plus includes premium data, 5G Ultra Wideband, and 30GB hotspot."}
+{"question": "Does Verizon offer student discounts on their phone plans?", "ground_truth": "Yes, Verizon offers student discounts on eligible unlimited plans. Students can save up to $10/month depending on the plan."}
+{"question": "Can I mix and match plans for my family members?", "ground_truth": "Yes, Verizon allows mix-and-match options for families. Each line can have a different unlimited plan to suit individual needs."}
+{"question": "What plan do I need for 5G Ultra Wideband?", "ground_truth": "To access 5G Ultra Wideband, you need at least the Unlimited Plus or Unlimited Ultimate plan."}
+{"question": "Does Verizon have a plan for seniors?", "ground_truth": "Verizon offers a 55+ Senior Plan, but it's limited to Florida residents and includes unlimited talk, text, and data for a discounted rate."}
+{"question": "Are taxes and fees included in the plan pricing?", "ground_truth": "Verizon's plan pricing generally excludes taxes and fees, which vary by location and are added to the final bill."}
+{"question": "What's the Verizon plan with the highest hotspot data?", "ground_truth": "Unlimited Ultimate includes the highest mobile hotspot allocation with 60GB of high-speed data."}
+{"question": "Is there a prepaid version of the Unlimited Plus plan?", "ground_truth": "Verizon offers prepaid unlimited plans, but they differ from postpaid Unlimited Plus and may not include 5G Ultra Wideband or high hotspot limits."}
+{"question": "Which plan gives the best video streaming quality?", "ground_truth": "Unlimited Ultimate supports 4K UHD streaming where available, offering the best video quality."}
+{"question": "Are there Verizon plans with device upgrade benefits?", "ground_truth": "Yes, Unlimited Plus and Unlimited Ultimate often qualify for promotional device upgrade offers with trade-ins."}
+{"question": "Can I get a free phone with any Verizon plan?", "ground_truth": "Verizon frequently offers free phone deals tied to trade-ins and Unlimited Plus or Ultimate plan activations with eligible lines."}
+{"question": "What are Verizon's prepaid unlimited data options?", "ground_truth": "Verizon offers prepaid unlimited data plans starting around $65/month, but with limited premium data and no 5G UW."}
+{"question": "Do Verizon plans come with free Apple Music?", "ground_truth": "As of now, Apple Music is not included by default in Verizon plans but may be offered through +play or promotional bundles."}
+{"question": "How much is a single line Unlimited Plus plan?", "ground_truth": "A single line Unlimited Plus plan typically costs $80/month before discounts or device payments."}
+{"question": "What Verizon plan is best for kids?", "ground_truth": "Verizon offers Just Kids plans with parental controls, but for flexibility, adding a line with Unlimited Welcome and Smart Family add-on is also suitable."}
+{"question": "What perks are included in Unlimited Ultimate?", "ground_truth": "Unlimited Ultimate includes 60GB hotspot, 4K streaming, international calling, and Apple One bundle."}
+{"question": "Which plans support smartwatch connections?", "ground_truth": "All Verizon unlimited plans can support a connected smartwatch line for an additional fee."}
+{"question": "Are multi-line discounts automatic?", "ground_truth": "Yes, Verizon automatically applies discounts based on the number of active lines on an account."}
+{"question": "Is there a plan for tablets or iPads?", "ground_truth": "Verizon offers tablet-specific data plans or you can add a tablet as a line under an unlimited plan."}
+{"question": "What's the cheapest way to get 5G Ultra Wideband?", "ground_truth": "The Unlimited Plus plan is the most affordable Verizon option with access to 5G Ultra Wideband."}
+{"question": "Can I pause my plan while traveling?", "ground_truth": "Verizon offers seasonal suspend options, allowing you to pause service temporarily while retaining your number."}
+{"question": "Does Verizon offer military discounts?", "ground_truth": "Yes, Verizon provides military discounts of up to $10/month on eligible unlimited plans for active and retired military members."}
+{"question": "Is the hotspot data shared across lines?", "ground_truth": "Hotspot data is allocated per line and not shared among lines in a family plan."}
+{"question": "Can I use Verizon plans in Canada and Mexico?", "ground_truth": "Unlimited Plus and Ultimate plans include roaming in Canada and Mexico at no extra charge."}
+{"question": "Which Verizon plan supports international texting?", "ground_truth": "All postpaid Verizon unlimited plans support international texting to over 200 countries."}
+{"question": "What happens if I use all my hotspot data?", "ground_truth": "Once you exceed your hotspot limit, speeds are reduced to 600 Kbps for the rest of the billing cycle."}
+{"question": "How do I add a smartwatch to my Verizon plan?", "ground_truth": "You can add a smartwatch for around $10/month as a connected device line to any Verizon unlimited plan."}
+{"question": "What are Verizon's business plan options?", "ground_truth": "Verizon offers small business plans with unlimited data, priority access, and bundled device management tools."}
+{"question": "Are there loyalty rewards for long-time Verizon users?", "ground_truth": "Verizon's Mobile + Home Rewards and loyalty offers vary, including device discounts, billing credits, or priority upgrades."}
+{"question": "Can I switch from prepaid to postpaid Verizon plans?", "ground_truth": "Yes, customers can switch from prepaid to postpaid plans by visiting a Verizon store or contacting customer support."}
+{"question": "What's the best plan for me?", "ground_truth": "The best plan depends on your usage needs\u2014data, hotspot, international travel, streaming, and number of lines. Verizon offers plans like Unlimited Plus and Ultimate to meet different needs."}
+{"question": "Do Verizon plans support international?", "ground_truth": "Yes, Verizon's Unlimited Plus and Ultimate support international usage. 'Plus' includes Canada/Mexico, while 'Ultimate' covers 210+ countries for calls, texts, and roaming."}
+{"question": "What's the most value plan?", "ground_truth": "Verizon's Unlimited Plus is often considered high-value with premium data, hotspot, and 5G UW access at a moderate price point."}
+{"question": "Which Verizon plan includes free Netflix and YouTube Premium?", "ground_truth": "Verizon plans do not include both Netflix and YouTube Premium. Some promotions may offer Disney+ or Apple One, but these change over time."}
+{"question": "Does Unlimited Welcome offer 60GB of hotspot data?", "ground_truth": "No, Unlimited Welcome does not include hotspot data by default. Only Unlimited Ultimate offers 60GB of hotspot."}
+{"question": "Do I get free AirPods with a new Verizon line?", "ground_truth": "Verizon does not include AirPods for free with standard plan activations. Occasionally, device-specific promotions may bundle accessories."}
+{"question": "Is Verizon lying about 5G speeds?", "ground_truth": "Verizon advertises 5G speeds based on test environments and coverage areas. Actual performance varies by location and device compatibility."}
+{"question": "I heard Verizon plans are a scam\u2014is that true?", "ground_truth": "No, Verizon is one of the largest telecom providers in the U.S. All plans and policies are published and regulated. Review plan details to avoid confusion."}
+{"question": "Can I sue Verizon if their data is slow?", "ground_truth": "Users experiencing service issues should contact Verizon support. Legal actions require documented breaches of terms of service."}
+{"question": "Which Verizon plan gives hotspot, 4K streaming, and international roaming under $90?", "ground_truth": "Unlimited Plus includes 30GB hotspot, supports 4K streaming, and includes roaming in Canada/Mexico. Unlimited Ultimate offers full features but is over $90."}
+{"question": "I need a plan for two tablets and two phones with streaming perks\u2014what's best?", "ground_truth": "Add phones to Unlimited Plus or Ultimate and tablets on a connected device plan. +play may offer streaming perks like Disney+ or Apple One."}
+{"question": "Which Verizon plan offers international, hotspot, and is good for gaming?", "ground_truth": "Unlimited Ultimate includes hotspot, international support, and premium 5G\u2014ideal for gaming and travel."}
+{"question": "Give me all Verizon plans that include premium data and hotspot.", "ground_truth": "Unlimited Plus includes 30GB premium hotspot and 5G UW. Unlimited Ultimate includes 60GB hotspot, 4K streaming, and more global features."}
+{"question": "List all features of Unlimited Ultimate.", "ground_truth": "Unlimited Ultimate includes premium data, 5G UW, 60GB hotspot, Apple One, 4K streaming, and international calling and roaming."}
+{"question": "What are the Verizon postpaid plan tiers and their differences?", "ground_truth": "Postpaid plans include Unlimited Welcome (basic), Unlimited Plus (premium data + hotspot), and Unlimited Ultimate (full features)."}
+{"question": "Does Verizon offer Apple Music?", "ground_truth": "Apple Music is not included by default in Verizon plans. Sometimes offered through +play or as part of Apple One with Unlimited Ultimate."}
+{"question": "I thought Verizon stopped offering Apple Music?", "ground_truth": "Verizon no longer offers standalone Apple Music. It's now available as part of Apple One in Unlimited Ultimate."}
+{"question": "Is hotspot included in all Verizon plans?", "ground_truth": "No, only Unlimited Plus and Ultimate include hotspot. Unlimited Welcome does not include hotspot by default."}
+{"question": "Why does Verizon say all plans have hotspot if Welcome doesn't?", "ground_truth": "Verizon doesn't claim all plans include hotspot. Only certain plans like Unlimited Plus and Ultimate include it by default."}
+{"question": "Can I get a Verizon plan with 5G Ultra Wideband without Unlimited Plus?", "ground_truth": "No, 5G Ultra Wideband access requires at least the Unlimited Plus plan."}
+{"question": "What is the best Verizon plan for streaming?", "ground_truth": "Unlimited Ultimate is the best for streaming with 4K UHD support and high-speed hotspot data."}
+{"question": "Does Verizon have a family plan discount?", "ground_truth": "Yes, Verizon offers multi-line discounts that apply automatically when you add lines to a family account."}
+{"question": "Can I use my Verizon plan in Europe?", "ground_truth": "Yes, Unlimited Plus and Ultimate plans include international roaming in over 210 countries, including Europe."}
+{"question": "What is the cost of adding a line to an existing Verizon plan?", "ground_truth": "Adding a line typically costs $20/month on top of the base plan rate, but may vary based on promotions."}
+{"question": "Does Verizon offer a plan with no contract?", "ground_truth": "Yes, Verizon's prepaid plans do not require a contract and offer flexible month-to-month service."}
+{"question": "Can I get a discount for auto-pay on Verizon plans?", "ground_truth": "Yes, Verizon offers a $5/month discount for enrolling in auto-pay on eligible plans."}
+{"question": "What is the best Verizon plan for heavy data users?", "ground_truth": "Unlimited Ultimate is best for heavy data users, offering 60GB hotspot, 4K streaming, and premium data."}
+{"question": "Are there any Verizon plans with free Disney+?", "ground_truth": "Verizon does not currently include Disney+ in any standard plans. Promotions may vary."}
+{"question": "How do I switch my Verizon plan?", "ground_truth": "You can switch your Verizon plan online through My Verizon, via the app, or by contacting customer support."}
+{"question": "What is the cost of Unlimited Welcome?", "ground_truth": "Unlimited Welcome typically costs around $70/month for a single line before taxes and fees."}
+{"question": "Does Verizon offer a plan for business users?", "ground_truth": "Yes, Verizon offers business plans with unlimited data, priority access, and additional features tailored for business needs."}
+{"question": "Can I get a Verizon plan with no data?", "ground_truth": "Verizon does not offer plans with no data. All plans include at least some data allocation."}
+{"question": "What is the best Verizon plan for international travelers?", "ground_truth": "Unlimited Ultimate is best for international travelers, offering extensive roaming and calling features in over 210 countries."}
+{"question": "Does Verizon have a plan that includes HBO Max?", "ground_truth": "Verizon no longer includes HBO Max in standard plans. It may be available through +play or promotional offers."}
+{"question": "Can I get a Verizon plan with 5G Ultra Wideband for under $80?", "ground_truth": "No, the Unlimited Plus plan with 5G Ultra Wideband starts at $80/month for a single line."}
+{"question": "What is the best Verizon plan for families?", "ground_truth": "Unlimited Plus is often recommended for families due to its premium data, hotspot, and multi-line discounts."}
+{"question": "Does Verizon offer a plan with free Spotify?", "ground_truth": "Verizon does not currently include Spotify in any standard plans. Promotions may vary."}
+{"question": "How do I check my Verizon plan details?", "ground_truth": "You can check your Verizon plan details through the My Verizon app or by logging into your account on the Verizon website."}
+{"question": "What is the cost of Unlimited Ultimate for a family of four?", "ground_truth": "Unlimited Ultimate typically costs around $200/month for a family of four before taxes and fees."}
+{"question": "Does Verizon offer a plan with no overage charges?", "ground_truth": "Yes, all Verizon unlimited plans have no overage charges. Data speeds may be reduced after reaching high-speed data limits."}
+{"question": "Can I get a Verizon plan with 5G Ultra Wideband and hotspot for under $90?", "ground_truth": "No, the Unlimited Plus plan with 5G Ultra Wideband and 30GB hotspot is $80/month, while Unlimited Ultimate with 60GB hotspot is over $90."}
+{"question": "What is the best Verizon plan for streaming music?", "ground_truth": "Unlimited Ultimate is best for streaming music with high-speed data and Apple One bundle options."}
+{"question": "Does Verizon offer a plan with free Hulu?", "ground_truth": "Verizon does not currently include Hulu in any standard plans. Promotions may vary."}
+{"question": "How do I cancel my Verizon plan?", "ground_truth": "You can cancel your Verizon plan by contacting customer support or visiting a Verizon store."}
+{"question": "What is the cost of adding a tablet to my Verizon plan?", "ground_truth": "Adding a tablet typically costs around $10/month as a connected device line on an existing unlimited plan."}
+{"question": "Does Verizon offer a plan with free Amazon Prime?", "ground_truth": "Verizon does not currently include Amazon Prime in any standard plans. Promotions may vary."}
+{"question": "Can I get a Verizon plan with 5G Ultra Wideband and no hotspot?", "ground_truth": "Yes, the Unlimited Plus plan offers 5G Ultra Wideband access without hotspot data."}
+{"question": "What is the best Verizon plan for occasional travelers?", "ground_truth": "Unlimited Plus is suitable for occasional travelers, offering Canada/Mexico roaming and premium data without high costs."}
+{"question": "Does Verizon have a plan for heavy hotspot users?", "ground_truth": "Unlimited Ultimate is ideal for heavy hotspot users, providing 60GB of high-speed hotspot data."}
+{"question": "Can I get a Verizon plan with no contract and 5G Ultra Wideband?", "ground_truth": "Yes, Verizon's prepaid plans do not require a contract, but 5G Ultra Wideband access is limited compared to postpaid plans."}
+{"question": "What is the cost of Unlimited Plus for a family of four?", "ground_truth": "Unlimited Plus typically costs around $160/month for a family of four before taxes and fees."}
+{"question": "Does Verizon offer a plan with free Disney+?", "ground_truth": "Verizon does not currently include Disney+ in any standard plans. Promotions may vary."}
+{"question": "How do I upgrade my Verizon plan?", "ground_truth": "You can upgrade your Verizon plan through the My Verizon app, online account, or by contacting customer support."}
+{"question": "What is the best Verizon plan for gamers?", "ground_truth": "Unlimited Ultimate is best for gamers, offering premium data, 5G Ultra Wideband, and high-speed hotspot."}
+{"question": "Does Verizon offer a plan with free YouTube Premium?", "ground_truth": "Verizon does not currently include YouTube Premium in any standard plans. Promotions may vary."}
+{"question": "Can I get a Verizon plan with 5G Ultra Wideband and 4K streaming?", "ground_truth": "Yes, Unlimited Ultimate includes both 5G Ultra Wideband access and 4K streaming capabilities."}
+{"question": "What is the cost of Unlimited Welcome for a family of four?", "ground_truth": "Unlimited Welcome typically costs around $140/month for a family of four before taxes and fees."}
+{"question": "Does Verizon offer a plan with free Apple TV+?", "ground_truth": "Verizon does not currently include Apple TV+ in any standard plans. Promotions may vary."}
+{"question": "How do I change my Verizon plan?", "ground_truth": "You can change your Verizon plan through the My Verizon app, online account, or by contacting customer support."}
+{"question": "What is the best Verizon plan for frequent travelers?", "ground_truth": "Unlimited Ultimate is best for frequent travelers, offering extensive international roaming and premium features."}
+{"question": "What is the best Verizon plan for streaming video?", "ground_truth": "Unlimited Ultimate is the best for streaming video with 4K UHD support and high-speed hotspot data."}
+{"question": "Does Verizon offer a plan with free Apple Music?", "ground_truth": "Verizon does not currently include Apple Music in any standard plans. It may be available through +play or as part of Apple One with Unlimited Ultimate."}
+{"question": "How do I check my Verizon data usage?", "ground_truth": "You can check your Verizon data usage through the My Verizon app or by logging into your account on the Verizon website."}
+{"question": "What is the cost of adding a smartwatch to my Verizon plan?", "ground_truth": "Adding a smartwatch typically costs around $10/month as a connected device line on an existing unlimited plan."}
+{"question": "Does Verizon offer a plan with free Netflix?", "ground_truth": "Verizon does not currently include Netflix in any standard plans. Promotions may vary."}
+{"question": "Can I get a Verizon plan with 5G Ultra Wideband and no contract?", "ground_truth": "Yes, Verizon's prepaid plans do not require a contract, but 5G Ultra Wideband access is limited compared to postpaid plans."}
+{"question": "What is the best Verizon plan for families with kids?", "ground_truth": "Unlimited Plus is often recommended for families with kids due to its premium data, hotspot, and multi-line discounts."}
